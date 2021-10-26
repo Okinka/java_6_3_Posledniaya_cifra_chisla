@@ -6,7 +6,7 @@ public class Main {
         int number = 546;
 
         int lastDigit; //напишите тут ваш код
-        lastDigit =  number % 10 ;
+        lastDigit =  number % 10;
         System.out.println(lastDigit);
     }
 }
